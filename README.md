@@ -1,2 +1,2 @@
 # my-portfolio
-.NET developer
+Full Stack Developer
